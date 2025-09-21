@@ -1,0 +1,7 @@
+vosk
+mutagen
+scipy
+numpy
+streamlit
+langchain_core
+langchain_ollama
